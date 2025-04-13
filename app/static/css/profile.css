@@ -1,0 +1,30 @@
+.profile-card {
+    width: 300px;
+    margin: 30px auto;
+    background: #e0f7fa;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.profile-pic {
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.stats {
+    display: flex;
+    justify-content: space-around;
+    margin: 15px 0;
+}
+
+.follow-btn {
+    background-color: #26a69a;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
